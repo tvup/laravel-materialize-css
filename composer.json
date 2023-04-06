@@ -4,8 +4,7 @@
     "keywords": ["Materialize", "CSS", "Material Design", "laravel", "CSS Framework"],
     "license": "MIT",
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "5.*"
+        
     },
     "authors": [
         {
